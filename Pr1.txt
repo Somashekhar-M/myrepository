@@ -1,0 +1,3 @@
+Hai Somashekhar.
+this is first file in local repo.
+this is using for git add
